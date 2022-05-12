@@ -8,7 +8,7 @@
 <h3><i>Welcome to Velocity</i></h2><br>
 <h1>Welcome to Velocity</h1><br>
 <p><b>This is a java 
-<table <style> border:2 px;padding:solidthik;color:red</style>>
+<table <style> border:2 px;padding:solidthik;color:red</style>>xxxxxxxxxxxxxxx
 <tr><th>Sr no.</th><th>First Name</th><th>Last Name</th><th>Marks</tr></tr>
 <td>01</td><tr>Nilesh/td><td>Waghchavare</td><tr>50</td>
 <td>02</td><tr>Swapnali/td><td>Waghchavare</td><tr>60</td>
